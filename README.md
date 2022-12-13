@@ -6,6 +6,6 @@ Four classes of weld defects are represented: lack of penetration (LP), porosity
 The dataset is released freely.
 If you use RIAWELC, please cite the following papers:
 
-[1] Benito Totino, Fanny Spagnolo, Stefania Perri, "RIAWLEC: A Novel Dataset of Radiographic Images for Automatic Weld Defects Classification", in the Proceedings of the Interdisciplinary Conference on Mechanics, Computers and Electrics (ICMECE 2022), 6-7 October 2022, Barcelona, Spain. 
+[1] Benito Totino, Fanny Spagnolo, Stefania Perri, "RIAWELC: A Novel Dataset of Radiographic Images for Automatic Weld Defects Classification", in the Proceedings of the Interdisciplinary Conference on Mechanics, Computers and Electrics (ICMECE 2022), 6-7 October 2022, Barcelona, Spain. 
 
 [2] Stefania Perri, Fanny Spagnolo, Fabio Frustaci, Pasquale Corsonello, "Welding Defects Classification Through a Convolutional Neural Network", in press in Manufacturing Letters, Elsevier.
